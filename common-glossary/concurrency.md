@@ -12,4 +12,6 @@ Though, it is the case that the tasks may look like they are running simultaneou
 
 ### References
 
+*Parallelism vs. concurrency.* (n.d.). Retrieved from https://wiki.haskell.org/Parallelism_vs._Concurrency. 
+
 Saurabh. (2021, July 18). *Concurrency vs parallelism.* Retrieved from https://howtodoinjava.com/java/multi-threading/concurrency-vs-parallelism/. 
