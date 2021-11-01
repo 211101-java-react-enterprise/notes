@@ -1,1 +1,0 @@
-# Java Community Processes (JCPs) and Java Specification Requests (JSRs)
