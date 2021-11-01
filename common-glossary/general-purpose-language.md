@@ -1,7 +1,3 @@
 # General Purpose Language
 
-A programming language that is used to solve a wide variety of problems. Languages such as C, C++ and Java are examples. Contrast with special-purpose language. See general purpose.
-
-### References 
-
-*Definition of general-purpose language.* PCMAG. (n.d.). Retrieved from https://www.pcmag.com/encyclopedia/term/general-purpose-language. 
+A *general purpose language* is one that is designed to write software which spans across many different domains and will be used to solve a wide range of problems​. Such languages are abstract and have logical notions embedded within them in the form of keywords, operators, and punctuation marks.
