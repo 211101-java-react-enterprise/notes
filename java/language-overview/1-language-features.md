@@ -9,7 +9,7 @@ Java is an [object-oriented](../../common-glossary/object-oriented-programming.m
 
 ### Platform independence
 
-All [operating systems](../common-glossary/operating-system.md) are different, and as a result Java source code (written by a developer) is compiled into **bytecode** by the [Java compiler](./3-jdk-overview.md#java-compiler. The compiled bytecode is then converted into operating system instructions by the [Java Virtual Machine (JVM)](./jvm-overview.md). 
+All [operating systems](../common-glossary/operating-system.md) are different, and as a result Java source code (written by a developer) is compiled into **bytecode** by the [Java compiler](./3-jdk-overview.md#java-compiler). The compiled bytecode is then converted into operating system instructions by the [Java Virtual Machine (JVM)](./jvm-overview.md). 
 
 ### Clear, verbose syntax
 
