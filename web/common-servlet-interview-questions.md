@@ -32,3 +32,8 @@
 
 - Describe the front controller pattern.
 
+- What is Jackson?
+
+- What is meant by marshalling/unmarshalling?
+
+- What constructor is required by all objects that are to be marshalled/unmarshalled by Jackson?
